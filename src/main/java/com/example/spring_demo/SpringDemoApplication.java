@@ -10,6 +10,6 @@ public class SpringDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDemoApplication.class, args);
-		System.out.println(123);
+		System.out.println(121233);
 	}
 }
